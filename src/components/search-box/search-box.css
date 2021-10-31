@@ -1,8 +1,10 @@
 .search {
   /*-webkit-appearance: none;*/
-  border: 1px solid #ccc8c8;
+  border: 1px solid #7f9ee5;
+  outline: 1px #7f9ee5;
+  background-color: #bfebe3;
   padding: 0.5%;
   width: 180px;
   border-radius: 5px;
-  margin: 30px auto;
+  margin-bottom: 30px;
 }
